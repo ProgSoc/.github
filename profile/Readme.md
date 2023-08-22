@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ProgSoc" >
-    <img src="https://github.com/ProgSoc/.github/raw/main/profile/logo.svg" alt="ProgSoc Logo" width="500" >
+    <img src="https://github.com/ProgSoc/.github/raw/main/profile/logo.svg" alt="ProgSoc Logo" height="500" >
   </a>
 </div>
 
