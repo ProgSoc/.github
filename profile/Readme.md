@@ -1,9 +1,13 @@
-# UTS Programmers' Society
+<div align="center">
+  <a href="https://github.com/ProgSoc" >
+    <img src="https://github.com/ProgSoc/.github/raw/main/profile/logo.svg" alt="ProgSoc Logo" width="500" >
+  </a>
+</div>
 
 ## About
 
-The UTS Programmers' Society is a student-run society at the University of Technology, Sydney. We aim to provide a community for students to learn and share their knowledge about programming and technology.
+The UTS Programmers' Society is one of the oldest at the university founded in 1989 by a group of students who wanted to share their passion for programming. Since then the society has run many events like workshops, hackathons, programming competitions and many more.
 
-## History
+No matter your skill level we're more than open to have a chat.
 
-ProgSoc was first established in 1989 by a group of students at UTS and was among the first groups on campus to have their own internet connection.
+As it says at the bottom of our banner; "Go online, start an argument"
