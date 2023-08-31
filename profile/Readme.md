@@ -14,4 +14,4 @@ The UTS Programmers' Society is one of the oldest at the university founded in 1
 
 No matter your skill level we're more than open to have a chat.
 
-As it says at the bottom of our banner; "Go online, start an argument"
+As it says at the bottom of our banner; **"Go online, start an argument"**
