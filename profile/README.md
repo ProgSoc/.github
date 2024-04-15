@@ -16,9 +16,11 @@ No matter your skill level we're more than open to have a chat.
 
 As it says at the bottom of our banner; **"Go online, start an argument"**
 
+
+
+[![Discord chat][discord-badge]][discord-url]
+</div>
+
 [discord-badge]: https://img.shields.io/discord/504971400394702858.svg?logo=discord
 [discord-url]: https://progsoc.org/discord
 
-</div>
-
-[![Discord chat][discord-badge]][discord-url]
