@@ -4,6 +4,8 @@
   <img src="https://github.com/ProgSoc/.github/raw/main/profile/logo.svg" alt="ProgSoc Logo" style="height: 200px">
 </a>
 
+[![Discord chat][discord-badge]][discord-url]
+
 ## About
 
 The UTS Programmers' Society is one of the oldest at the university.
@@ -13,5 +15,8 @@ since then the society has run many events like workshops, hackathons, programmi
 No matter your skill level we're more than open to have a chat.
 
 As it says at the bottom of our banner; **"Go online, start an argument"**
+
+[discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
+[discord-url]: https://progsoc.org/discord
 
 </div>
