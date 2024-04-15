@@ -4,7 +4,7 @@
   <img src="https://github.com/ProgSoc/.github/raw/main/profile/logo.svg" alt="ProgSoc Logo" style="height: 200px">
 </a>
 
-[![Discord chat][discord-badge]][discord-url]
+
 
 ## About
 
@@ -16,7 +16,9 @@ No matter your skill level we're more than open to have a chat.
 
 As it says at the bottom of our banner; **"Go online, start an argument"**
 
-[discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
+[discord-badge]: https://img.shields.io/discord/504971400394702858.svg?logo=discord
 [discord-url]: https://progsoc.org/discord
 
 </div>
+
+[![Discord chat][discord-badge]][discord-url]
